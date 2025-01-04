@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+scikit-learn (sklearn)
+numpy
+IPython
+drive (for connecting to drive)
+
+
