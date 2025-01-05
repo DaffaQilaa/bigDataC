@@ -2,10 +2,10 @@
 Nama Project : Spotify Analysis
 
 Anggota : 
-- M. Daffa Aqilaa (daffaaqilaa01@gmail.com)
-- Ahmad Zaidan
-- Dzikriansyah Nusa Saputra
-- Ach. Sofyan Daynur
+- M. Daffa Aqilaa (202110370311168)
+- Ahmad Zaidan (202110370311171)
+- Dzikriansyah Nusa Saputra (202110370311186)
+- Ach. Sofyan Daynur (202110370311155)
 
 Deskripsi: Project ini dibuat dalam rangka pemenuahn project akhir untuk analisis Big Data. Proyek ini bertujuan untuk menganalisis data dari platform streaming musik Spotify guna menemukan pola-pola yang mempengaruhi kepopularitasan lagu atau artis. Dengan menggunakan teknik analisis data dan pembelajaran mesin, kami mengumpulkan dan memproses data terkait jumlah streaming, demografi pendengar, genre musik, dan waktu rilis. Hasil analisis ini diharapkan dapat mengidentifikasi faktor-faktor kunci yang berkontribusi terhadap kesuksesan sebuah lagu atau artis di Spotify. Temuan ini dapat digunakan oleh industri musik untuk strategi pemasaran yang lebih efektif dan oleh artis untuk memahami preferensi audiens mereka.
 
